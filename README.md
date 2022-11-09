@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Flutter**
+
 
 - 📫 How to reach me **aashishdubey620@gmail.com**
 
